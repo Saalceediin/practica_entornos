@@ -5,7 +5,7 @@
 package Modelo;
 
 /**
- *
+ * Esta clase representa al objeto libro.
  * @author usuario
  */
 public class Libro {
